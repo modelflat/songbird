@@ -46,7 +46,7 @@ version = "1"
 
 [dependencies.dashmap]
 optional = true
-version = "4"
+version = "5"
 
 [dependencies.discortp]
 features = ["discord-full"]
